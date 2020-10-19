@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-
+//Changes
 //                Intent newScreenIntent = new Intent(MainActivity.this, SignUp.class);
 ////                newScreenIntent.putExtra("email", emailValue);
 ////                newScreenIntent.putExtra("password", passwordValue);
